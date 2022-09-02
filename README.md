@@ -26,5 +26,4 @@ Hope you like my project !! I had fixed some bugs in it too !!
 ## 😌 Honest Time to finish the project
 
 I had took about 4-5 hrs
-## 👀 Feedback
-If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
+
